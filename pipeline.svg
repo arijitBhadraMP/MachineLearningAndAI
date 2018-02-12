@@ -1,0 +1,6 @@
+.svg__pipeline__text { fill: #1a1e23; font: 20px Arial, sans-serif }
+.svg__pipeline__text-small { fill: #1a1e23; font: bold 18px Arial,
+sans-serif } .svg__pipeline__text-code { fill: #1a1e23; font: 600 16px
+Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace }
+Doc Text nlp tokenizer tagger parser ner ...
+
